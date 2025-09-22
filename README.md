@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Library-Management-UI-with-Search-Add-and-Remove-Book-Functionality
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,9 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.\<img width="892" height="642" alt="Screenshot 2025-09-22 100801" src="https://github.com/user-attachments/assets/59f134f9-9fc9-4f42-a54e-782461043cd6" />
+<img width="892" height="642" alt="Screenshot 2025-09-22 100801" src="https://github.com/user-attachments/assets/ce40e223-fd8d-4409-86a4-7fdeb42a9628" />
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
